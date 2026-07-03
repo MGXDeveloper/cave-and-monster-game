@@ -1,0 +1,4 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+X_RANGE = range(6, 660, 60)
+Y_RANGE = range(2, 552, 55)
